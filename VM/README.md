@@ -1,0 +1,1 @@
+This folder contains the four different iterations of the script, meant to create the reconstruction efficiency plot `#kaons that produced a cluster in nHCal`/`#kaons in acceptance of nHCal`, and the results thereof.
